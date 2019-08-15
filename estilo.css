@@ -1,0 +1,25 @@
+body{
+	background-color: #DAD4D4
+}
+
+span{
+	margin-left: 20px;
+}
+
+.titulo{
+	color: #3373D4
+}
+
+.top{
+	margin: 40px 15px 30px 40px;
+}
+
+.content-box {
+	margin: 0 0 25px;
+	overflow: hidden;
+	padding: 20px;
+
+	/*background-color: #d9edc2;*/
+	background-color: #F1B923;
+	border: 1px solid #b2ce96;
+}
